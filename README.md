@@ -12,7 +12,7 @@ At [Opreto](https://github.com/opreto), I architect and guide the development of
 
 - 👁️ artificial perception
 - 📡 sensor planning and calibration
-- ☢️ hybrid-modality sensor fusion
+- 🌐 hybrid-modality sensor fusion
 - 🗺️ localization and mapping
 - 🛰️ object detection and tracking
 
