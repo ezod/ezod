@@ -4,7 +4,7 @@ At [Opreto](https://github.com/opreto), I architect and guide the development of
 
 - 🦾 robotics
 - 🚙 autonomous vehicles
-- 🎛️ industrial controls
+- 🎛️ industrial automation
 - 📷 computer vision
 - 📟 embedded systems
 
