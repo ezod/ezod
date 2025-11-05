@@ -22,4 +22,4 @@ At [Opreto](https://github.com/opreto), I architect and guide the development of
 - 🎧 DJing
 - 🥁 drumming
 - 📜 local history
-- 🪏 metal detecting
+- 🏛️ philosophy of mind
